@@ -1,107 +1,90 @@
-# Olá! Eu sou o Ítalo Ferreira 👋🤓
+<h1 align="center">Olá, eu sou o Ítalo Ferreira 👋</h1>
 
-**CTO • Staff Software Engineer • Product & Technology Builder**
+<p align="center">
+  <strong>CTO · Staff Software Engineer · Product & Technology Builder</strong>
+</p>
 
-Apaixonado por tecnologia, produto e inovação. Atuo há anos liderando times, construindo SaaS escalável e transformando ideias em produtos reais.
+<p align="center">
+  Da decisão de produto ao código em produção.
+</p>
 
-Hoje meu foco está em unir **negócio + tecnologia + execução**, com forte atuação em:
-
-- Arquitetura de Software
-- Desenvolvimento Full Stack
-- Produtos SaaS
-- Inteligência Artificial aplicada ao negócio
-- Escalabilidade e Performance
-- Cloud / DevOps / Infraestrutura
-- Liderança Técnica e Estratégia
-
----
-
-## 🌐 Onde me encontrar
-
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://italoferreira.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italofmd/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/italofmd)
+<p align="center">
+  <a href="https://italoferreira.dev/">Website</a> ·
+  <a href="https://www.linkedin.com/in/italofmd/">LinkedIn</a> ·
+  <a href="https://github.com/italofmd?tab=repositories">Repositórios</a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## Sobre mim
 
-![Italofmd GitHub stats](https://github-readme-stats.vercel.app/api?username=italofmd&show_icons=true&theme=dracula&count_private=true)
+Sou engenheiro de software com experiência em liderança técnica, arquitetura e construção de produtos SaaS. Conecto **negócio, tecnologia e execução** para transformar problemas complexos em soluções úteis, sustentáveis e preparadas para crescer.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italofmd&layout=compact&theme=dracula)
+Minha atuação vai da definição da arquitetura ao desenvolvimento: gosto de entender o problema, discutir os caminhos e participar da entrega. Tenho interesse especial por **engenharia de produto, performance e inteligência artificial aplicada ao negócio**.
 
----
+## Como eu contribuo
 
-## 🚀 Tecnologias que uso no dia a dia
+- **Arquitetura e evolução de sistemas:** decisões técnicas que consideram manutenção, confiabilidade e crescimento do produto.
+- **Desenvolvimento full stack:** construção de aplicações, APIs e integrações, do backend à experiência do usuário.
+- **Produtos SaaS:** conexão entre necessidades do cliente, prioridades do negócio e execução técnica.
+- **Performance e escalabilidade:** otimização de aplicações, bancos de dados e processamento assíncrono.
+- **Liderança técnica:** orientação de times, revisão de código e definição de padrões que ajudam a entregar com qualidade.
+- **IA e automação:** exploração de aplicações práticas para simplificar processos e ampliar as capacidades dos produtos.
+
+## Stack
 
 ### Backend & APIs
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 ### Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-### Banco de Dados
+### Dados & Cache
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### Cloud / DevOps
+### Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square)
 
-### Tools
+### Ferramentas
 
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![PHPStorm](https://img.shields.io/badge/PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-181717?style=flat-square&logo=phpstorm&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
----
+## O que estou explorando
 
-## 🧠 Atualmente estudando e explorando
+- IA integrada a produtos SaaS e aos fluxos de trabalho dos usuários.
+- Automação de processos e integração entre sistemas.
+- Engenharia de produto orientada a problemas e resultados.
+- Arquiteturas que acompanham a evolução do negócio.
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-111111?style=for-the-badge)
-![Product](https://img.shields.io/badge/Product_Engineering-0A66C2?style=for-the-badge)
+## Atividade no GitHub
 
-- IA aplicada a produtos SaaS  
-- Automação de processos  
-- Engenharia de produto  
-- Escalabilidade de sistemas  
-- Arquitetura moderna
+<!-- Os cards são gerados pelo workflow .github/workflows/github-stats.yml. -->
+<!-- Execute o workflow uma primeira vez para criar os arquivos abaixo. -->
 
----
+![Estatísticas públicas de Ítalo Ferreira no GitHub](./profile/stats.svg)
+![Linguagens dos repositórios públicos de Ítalo Ferreira](./profile/top-langs.svg)
 
-## 💼 Sobre mim
-
-Construo soluções pensando em **resultado real**, não apenas código.
-
-Gosto de resolver problemas complexos envolvendo:
-
-- Produto
-- Tecnologia
-- Performance
-- Processos
-- Monetização
-- Experiência do usuário
+<sub>Estatísticas dos repositórios públicos; não representam toda a minha experiência ou atuação profissional.</sub>
 
 ---
 
-## ⚡ Filosofia
+> Tecnologia boa resolve problemas reais, escala com qualidade e gera valor.
 
-> Tecnologia boa é a que resolve problemas reais, escala com qualidade e gera valor.
-
----
-
-## 🚀 Bora construir algo grande.
+**Vamos conversar sobre produto e tecnologia?** Me encontre no [LinkedIn](https://www.linkedin.com/in/italofmd/) ou conheça meu trabalho em [italoferreira.dev](https://italoferreira.dev/).
